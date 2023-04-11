@@ -10,6 +10,7 @@
 - CSS
 - Javascript
 - My SQL
+- Kotlin
 
 ## Technologies I Learnt
 
