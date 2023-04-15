@@ -27,7 +27,7 @@
 - Microsoft Office Suite
 
 ## My 2023 Goal 
-To learn JavaScript Front End Libraries and Frameworks, Also learn about CSS Frameworks. And Finally getting familiar with Node JS for Back End. 
+To learn JavaScript FrontEnd Libraries and Frameworks, Also learn about CSS Frameworks. And Finally getting familiar with Node JS for BackEnd. 
 
 <!---
 SumitKar01/SumitKar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
