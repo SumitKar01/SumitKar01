@@ -23,6 +23,8 @@
 ## Softwares I use
 
 - VS Code
+- Visual Studio
+- Android Studio
 - Adobe Creative Cloud Suite
 - Microsoft Office Suite
 
