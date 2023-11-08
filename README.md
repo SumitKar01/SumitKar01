@@ -6,12 +6,14 @@
 - C 
 - C++
 - Java OOP
+- Kotlin
+- Python
 - HTML
 - CSS
 - Javascript
 - My SQL
 - PHP
-- Kotlin
+
 
 ## Technologies I Learnt
 
