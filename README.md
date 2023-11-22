@@ -14,6 +14,7 @@
 - MySQL
 - SQLite
 - PHP
+- Android XML
 
 
 ## Technologies I Learnt
