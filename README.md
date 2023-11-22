@@ -12,6 +12,7 @@
 - CSS
 - Javascript
 - My SQL
+- SQLite
 - PHP
 
 
