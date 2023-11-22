@@ -16,23 +16,20 @@
 - PHP
 - Android XML
 
-
 ## Technologies I Learnt
-
 - Git
 - Github
 - Markdown
 - LaTex
 
 ## Softwares I use
-
 - VS Code
 - Visual Studio
 - Android Studio
 - Adobe Creative Cloud Suite
 - Microsoft Office Suite
 
-## My 2023 Goal 
+## My 2023 Goals
 To learn JavaScript FrontEnd Libraries and Frameworks, Also learn about CSS Frameworks. And Finally getting familiar with Node JS for BackEnd. 
 
 <!---
