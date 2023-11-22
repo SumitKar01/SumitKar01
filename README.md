@@ -11,7 +11,7 @@
 - HTML
 - CSS
 - Javascript
-- My SQL
+- MySQL
 - SQLite
 - PHP
 
