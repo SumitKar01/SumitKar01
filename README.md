@@ -21,6 +21,7 @@
 - Github
 - Markdown
 - LaTex
+- Anaconda
 
 ## Softwares I use
 - VS Code
