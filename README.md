@@ -30,8 +30,9 @@
 - Adobe Creative Cloud Suite
 - Microsoft Office Suite
 
-## My 2023 Goals
+## My 2024 Goals
 To learn JavaScript FrontEnd Libraries and Frameworks, Also learn about CSS Frameworks. And Finally getting familiar with Node JS for BackEnd. 
+Also to dive into AI and Android App Devolopment
 
 <!---
 SumitKar01/SumitKar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
